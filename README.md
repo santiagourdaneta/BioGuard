@@ -1,9 +1,9 @@
 # 🌱 BioGuard: Plataforma de Conservación de Especies con IA y Gestión de Datos 🐅
 
-https://github.com/santiagourdaneta/BioGuard/blob/main/screenshot1.png
-https://github.com/santiagourdaneta/BioGuard/blob/main/screenshot2.png
-https://github.com/santiagourdaneta/BioGuard/blob/main/screenshot3.png
-https://github.com/santiagourdaneta/BioGuard/blob/main/screenshot4.png
+![BioGuard Screenshot 1](screenshot1.png)
+![BioGuard Screenshot 2](screenshot2.png)
+![BioGuard Screenshot 3](screenshot3.png)
+![BioGuard Screenshot 4](screenshot4.png)
 
 ## Descripción del Proyecto
 
