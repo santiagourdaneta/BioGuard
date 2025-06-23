@@ -1,0 +1,37 @@
+# Ignorar entornos virtuales
+venv/
+.venv/
+env/
+.env/
+
+# Ignorar archivos específicos de Python
+__pycache__/
+*.pyc
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.tox/
+.venv/
+
+# Ignorar bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignorar archivos de Streamlit
+.streamlit/
+streamlit_data/ # Si Streamlit crea alguna carpeta de datos local
+
+# Ignorar archivos temporales y de logs
+*.log
+*.tmp
+*.temp
+
+# Ignorar archivos del sistema operativo
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Jupyter Notebooks (si los usas para desarrollo)
+.ipynb_checkpoints/

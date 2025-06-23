@@ -1,0 +1,9 @@
+Modelos de IA: La detección por imagen y los modelos predictivos de riesgo son el aspecto más complejo. Entrenar modelos de Deep Learning desde cero es una tarea de semanas o meses, requiere grandes datasets de imágenes/datos ecológicos etiquetados y mucha capacidad de cómputo. Para este prototipo, las funciones de IA son "simulaciones" o "placeholders" para mostrar dónde irían. Un proyecto real usaría modelos pre-entrenados (como los de la familia ResNet, EfficientNet para imágenes) o APIs de servicios en la nube (Google Cloud Vision API, AWS Rekognition).
+
+Datos Ecológicos: La precisión de los análisis y predicciones depende enteramente de la cantidad y calidad de los datos ecológicos que registres. Cuantos más datos (poblaciones históricas, datos de hábitat, etc.), mejores serán los análisis y las predicciones.
+
+Criterios UICN: La clasificación automática con criterios UICN es compleja. Mi función clasificar_uicn es una simplificación extrema. Los criterios reales son detallados y numéricos, considerando tamaño de población, tasa de declive, área de distribución, fragmentación, etc. Un sistema "perfecto" implementaría la lógica completa de la UICN o usaría un motor de reglas más sofisticado.
+
+Escalabilidad: Para biólogos y conservacionistas que manejen miles o millones de registros, SQLite podría quedarse corto. Para eso, se moverían a bases de datos relacionales como PostgreSQL.
+
+Seguridad: Para un entorno de producción, la seguridad de la base de datos y la autenticación de usuarios serían cruciales, algo que Streamlit no maneja directamente de forma sencilla.

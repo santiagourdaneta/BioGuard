@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+numpy
+# Si usaras TensorFlow o PyTorch para IA real, tendrías que añadirlos:
+# tensorflow
+# scikit-learn
+#Las librerías de IA (tensorflow, scikit-learn) consumen muchos recursos y son grandes; para este ejemplo, las "simulamos" para que el proyecto sea desplegable de forma gratuita y sin hardware especializado. Si realmente quieres detección de imágenes y modelos predictivos avanzados, necesitarías un servidor más potente o usar servicios de IA en la nube.#

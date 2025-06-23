@@ -1,0 +1,11 @@
+nombre,nombre_cientifico,descripcion,estado_conservacion,estado_sugerido_uicn,poblacion_estimada,tendencia_poblacion,amenazas,pais
+Tigre de Bengala,Panthera tigris tigris,"Gran felino asiático con pelaje anaranjado y rayas negras.",En Peligro,En Peligro Crítico,2500,Decreciente,"Pérdida de hábitat, caza furtiva","India, Bangladesh"
+Vaquita Marina,Phocoena sinus,"Pequeño cetáceo endémico del Golfo de California.",En Peligro Crítico,En Peligro Crítico,10,Decreciente,"Redes de pesca, tráfico ilegal",México
+Rinoceronte de Java,Rhinoceros sondaicus,"Uno de los rinocerontes más raros del mundo.",En Peligro Crítico,En Peligro Crítico,80,Estable,"Pérdida de hábitat, caza",Indonesia
+Gorila de Montaña,Gorilla beringei beringei,"Primates grandes que habitan zonas montañosas de África central.",En Peligro,En Peligro,1063,Ligeramente creciente,"Deforestación, enfermedades humanas","Ruanda, Uganda, RDC"
+Leopardo de las Nieves,Panthera uncia,"Felino adaptado a climas fríos de Asia Central.",Vulnerable,En Peligro,5000,Decreciente,"Caza, cambio climático, fragmentación de hábitat","Nepal, Mongolia, China"
+Cóndor de California,Gymnogyps californianus,"Ave carroñera de gran envergadura del oeste de EE.UU.",En Peligro Crítico,En Peligro,560,Creciente,"Envenenamiento por plomo, pérdida de hábitat","EE.UU., México"
+Ajolote,Ambystoma mexicanum,"Anfibio neoténico endémico de lagos de México.",En Peligro Crítico,En Peligro Crítico,1000,Decreciente,"Contaminación, especies invasoras",México
+Delfín del Irrawaddy,Orcaella brevirostris,"Delfín de agua dulce con rostro redondeado.",En Peligro,En Peligro Crítico,7000,Decreciente,"Pesca con explosivos, represas","Myanmar, Camboya"
+Oso Polar,Ursus maritimus,"Mamífero ártico que depende del hielo marino para cazar.",Vulnerable,En Peligro,27000,Decreciente,"Derretimiento del hielo, contaminación","Canadá, Groenlandia, Rusia"
+Tortuga Carey,Eretmochelys imbricata,"Tortuga marina de caparazón precioso, vital para los arrecifes.",En Peligro Crítico,En Peligro Crítico,,Decreciente,"Caza por su caparazón, comercio ilegal, cambio climático","Zonas tropicales del mundo"
