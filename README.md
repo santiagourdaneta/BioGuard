@@ -1,5 +1,10 @@
 # 🌱 BioGuard: Plataforma de Conservación de Especies con IA y Gestión de Datos 🐅
 
+https://github.com/santiagourdaneta/BioGuard/blob/main/screenshot1.png
+https://github.com/santiagourdaneta/BioGuard/blob/main/screenshot2.png
+https://github.com/santiagourdaneta/BioGuard/blob/main/screenshot3.png
+https://github.com/santiagourdaneta/BioGuard/blob/main/screenshot4.png
+
 ## Descripción del Proyecto
 
 BioGuard es una **plataforma interactiva construida con Streamlit y SQLite** diseñada para biólogos, conservacionistas y entusiastas de la vida silvestre. Permite una gestión eficiente de datos de especies, incorporando **funcionalidades de Inteligencia Artificial (IA)** para sugerir estados de conservación y análisis de tendencias.
